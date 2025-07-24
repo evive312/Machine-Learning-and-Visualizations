@@ -46,5 +46,5 @@ This data science project investigates the relationship between electric vehicle
   <img src="https://i.imgur.com/V5rPA7e.png" height="80%" width="80%" alt="Data Cleaning for Outage Dataset"/>
   <br/><br/>
 
-  <b>Machine Learning Model Evaluation Pipeline</b><br/>
-  <img src="https://i.imgur.com/yGQDrFI.png" height="80%" width="80%" alt="SAIDI Model Evaluator Code"/>
+  <b>Machine Learning Model Evaluation Pipeline and Accuracy of Models</b><br/>
+  <img src="https://i.imgur.com/6ILZLzw.png" height="80%" width="80%" alt="SAIDI Model Evaluator Code"/>
