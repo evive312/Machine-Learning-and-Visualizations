@@ -30,21 +30,21 @@ This data science project investigates the relationship between electric vehicle
 <h2>Program walk-through:</h2>
 
   <b>Data Cleaning for EV Registration Dataset</b><br/>
-  <img src="https://i.imgur.com/QaBMWQ7.png" height="80%" width="80%" alt="Data Cleaning for EV Registration Dataset"/>
+  <img src="https://github.com/evive312/Machine-Learning-and-Visualizations/blob/main/img/QaBMWQ7.png" height="80%" width="80%" alt="Data Cleaning for EV Registration Dataset"/>
   <br/><br/>
  
   <b>Total SAIDI (2016–2023) by State with Political Leaning</b><br/>
-  <img src="https://i.imgur.com/N5OGYOy.png" height="80%" width="80%" alt="SAIDI Analysis Code and Bar Graph"/>
+  <img src="https://github.com/evive312/Machine-Learning-and-Visualizations/blob/main/img/N5OGYOy.png" height="80%" width="80%" alt="SAIDI Analysis Code and Bar Graph"/>
   <br/><br/>
 
   <b>Average EV Registrations in Red vs. Blue States (2016 vs 2023, Excl. California)
   </b><br/>
-  <img src="https://i.imgur.com/WvoGEAm.png" height="80%" width="80%" alt="EV Registration Analysis Code and Plot"/>
+  <img src="https://github.com/evive312/Machine-Learning-and-Visualizations/blob/main/img/WvoGEAm.png" height="80%" width="80%" alt="EV Registration Analysis Code and Plot"/>
   <br/><br/>
 
   <b>Data Cleaning for Power Outage Dataset</b><br/>
-  <img src="https://i.imgur.com/V5rPA7e.png" height="80%" width="80%" alt="Data Cleaning for Outage Dataset"/>
+  <img src="https://github.com/evive312/Machine-Learning-and-Visualizations/blob/main/img/V5rPA7e.png" height="80%" width="80%" alt="Data Cleaning for Outage Dataset"/>
   <br/><br/>
 
   <b>Machine Learning Model Evaluation Pipeline and Accuracy of Models</b><br/>
-  <img src="https://i.imgur.com/6ILZLzw.png" height="80%" width="80%" alt="SAIDI Model Evaluator Code"/>
+  <img src="https://github.com/evive312/Machine-Learning-and-Visualizations/blob/main/img/6ILZLzw.png" height="80%" width="80%" alt="SAIDI Model Evaluator Code"/>
